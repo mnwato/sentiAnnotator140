@@ -13,12 +13,14 @@
 
 ## Usage:
 
-#### 1. Make a ".csv" file (must be in ".csv" format and having three columns as bellow):
+#### 1. In windows open cmd and run `pip install -r requirement.txt` to install dependencies
+
+#### 2. Make a ".csv" file (must be in ".csv" format and having three columns as bellow):
 - Signal (leave it's value to be None)
 - handySentiment (leave it's value to be None)
 - tweet (fill this by your dataset tweets)
 
-#### 2. Run "SentiAnnotator.exe"
+#### 2. Run "SentiAnnotator.py"
 #### 3. Enter ".csv" file which created in the first step and click "Enter" button
-#### 4. Do Some Labeling
+#### 4. Do Some labeling
 #### 5. Finalize your changes on dataset by click on Finish button and exit.
